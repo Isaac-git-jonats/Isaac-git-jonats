@@ -6,8 +6,8 @@ Eai tudo bem? me chamo Isaac Jonatas e estou atualmento estudando e programando 
 
 Contatos:
 <br>
-<a href="https://www.instagram.com/isacz_jonats?igsh=bHVtZHc0c2R1ODRj" target="_black"><img src="https://img.icons8.com/?size=100&id=32320&format=png&color=000000" alt="logo-instagram" /></a>
-<a href="https://www.linkedin.com/in/isaac-jonatas-097856182"><img src="https://img.icons8.com/?size=100&id=16166&format=png&color=000000" alt="logo-linkedin" /></a>
+<a href="https://www.instagram.com/isacz_jonats?igsh=bHVtZHc0c2R1ODRj" target="_blank"><img src="https://img.icons8.com/?size=100&id=32320&format=png&color=000000" alt="logo-instagram" /></a>
+<a href="https://www.linkedin.com/in/isaac-jonatas-097856182" target="_blank"><img src="https://img.icons8.com/?size=100&id=16166&format=png&color=000000" alt="logo-linkedin" /></a>
 <br>
 <br>
 [![Isaac GitHub stats](https://github-readme-stats.vercel.app/api?username=isaac-git-jonats)](https://github.com/anuraghazra/github-readme-stats)
